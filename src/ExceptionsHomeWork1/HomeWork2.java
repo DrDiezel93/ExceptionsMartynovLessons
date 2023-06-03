@@ -28,7 +28,7 @@ public class HomeWork2 {
                     sum += val;
                 }
                 catch (NumberFormatException e){
-                    System.out.println("Невозможно преобразовать в строку");
+                    System.out.println("Невозможно преобразовать в число");
                 }
             }
         } return sum;
